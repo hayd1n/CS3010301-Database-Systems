@@ -142,7 +142,7 @@ Consider the ER diagram shown in Figure 3.22 for part of a BANK database. Each b
 - e. List concisely the user requirements that led to this ER schema design.
 - f. Suppose that every customer must have at least one account but is restricted to at most two loans at a time, and that a bank branch cannot have more than 1,000 loans. How does this show up on the (min, max) constraints?
 
-![figure_3.22](assets/figure_3.22.png)
+![figure_3.22](assets/figure_3_22.png)
 
 ### Answer
 
