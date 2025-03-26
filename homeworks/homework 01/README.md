@@ -194,7 +194,7 @@ SCULPTURE, and STATUE—plus another type called OTHER to accommodate objects th
 
 ### Answer
 
-![Exercise 4.20 answer](assets/Exercise 4.20 answer.png)
+![Exercise 4.20 answer](assets/exercise_4_20_answer.png)
 
 ## 5. Exercise 4.26
 
@@ -202,11 +202,11 @@ SCULPTURE, and STATUE—plus another type called OTHER to accommodate objects th
 
 **Which of the following EERdiagrams is/are incorrect and why? State clearly any assumptions you make.**
 
-![Exercise 4.26 a](assets/Exercise 4.26 a.png)
+![Exercise 4.26 a](assets/exercise_4_26_a.png)
 
-![Exercise 4.26 b](assets/Exercise 4.26 b.png)
+![Exercise 4.26 b](assets/exercise_4_26_b.png)
 
-![Exercise 4.26 c](assets/Exercise 4.26 c.png)
+![Exercise 4.26 c](assets/exercise_4_26_c.png)
 
 ### Answer
 
